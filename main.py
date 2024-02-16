@@ -1,4 +1,3 @@
-import Column_Value as cv
 
 # Printing the truth table
 no_variables = int(input('Enter number of variables: '))
